@@ -1,8 +1,8 @@
 # Curriculum Vitae
 
-*Name*: Alex Do 
-*Email*: alex.do@email.com 
-*Location*: New York, NY
+*Name*: Alex Do<br>
+*Email*: alex.do@email.com<br>
+*Location*: New York, NY<br>
 
 <u>Summary:</u>
 As a data scientist with a PhD degree and 5 years of work experience (see my [education](cv:education)), I have a deep understanding of statistical modeling, machine learning, and data visualization. My career has been focused on solving complex business problems through the use of data-driven insights, and I have a proven track record of delivering measurable results (see [experience](cv:experience) section). As a data scientist with a PhD degree and 5 years of work experience (see my [education](cv:education) section), I have a deep understanding of statistical modeling, machine learning, and data visualization (more details in [skills](cv:skills) section). My career has been focused on solving complex business problems through the use of data-driven insights, and I have a proven track record of delivering measurable results (see experience section). Example of my work can be found [here](analysis_example.ipynb).
